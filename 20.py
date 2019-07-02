@@ -1,3 +1,3 @@
 sss=int(input())
-for i in range(1,6):
-  print(sss*1,end=" ")
+for l in range(1,6):
+  print(sss*l,end=" ")
