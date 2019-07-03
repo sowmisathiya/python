@@ -1,5 +1,5 @@
-ind,wi=map(int,input().split())
-ind=ind*wi
-wi=wi//ind
-ind=ind//wi
-print(ind,wi)
+m,n=map(int,input().split())
+m=m*n
+n=m//n
+m=m//n
+print(m,n)
