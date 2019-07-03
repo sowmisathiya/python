@@ -1,3 +1,3 @@
-sow,var=map(int,input().split())
-sow,var=var,sow
-print("sow,var")
+sow1,var2=input().split()
+sow1,var2=var2,sow1
+print(sow1,var2)
