@@ -1,3 +1,3 @@
-p=list(map(int,input().split()))
-q=max(p)
-print(q)
+ros=list(map(int,input().split()))
+cup=max(ros)
+print(cup)
