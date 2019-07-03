@@ -5,5 +5,5 @@ for i in rangr(len(k)):
     continue
   else:
     s+=1
-  print(s)
+print(s)
    
