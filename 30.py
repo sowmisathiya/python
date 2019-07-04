@@ -1,5 +1,5 @@
-hs1,min1=map(int,input().split())
-hs2,min2=map(int,input().split())
+hs1,mn1=map(int,input().split())
+hs2,mn2=map(int,input().split())
 hs3=abs(hs1-hs2)
 mn3=abs(mn1-mn2)
 print(hs3,mn3) 
