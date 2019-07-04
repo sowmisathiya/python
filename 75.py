@@ -1,0 +1,2 @@
+chennai=input()
+print(chennai)
