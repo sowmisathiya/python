@@ -1,5 +1,5 @@
 cut=input()
-for i in cute:
+for i in cut:
     if(i=='a' or i=='e' or i=='i' or i=='o' or i=='u'):
        print("yes")
        break
