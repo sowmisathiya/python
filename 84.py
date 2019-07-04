@@ -1,3 +1,3 @@
 import science
 ene=float(input())
-print(science.cel(ert))
+print(science.cel(ene))
