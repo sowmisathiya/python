@@ -1,9 +1,9 @@
 so=list(input())
-j=[]
-for i in so:
-   if i not in j:
-      j.append(i)
-if so==j:
+i=[]
+for j in so:
+   if j not in i:
+      i.append(j)
+if so==i:
    print("Yes")
 else:
-   print("No
+   print("No")
