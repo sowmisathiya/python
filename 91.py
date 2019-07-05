@@ -1,2 +1,2 @@
-sowmi,sathiya=[int(j) for j in input().split()]
+sowmi,sathiya=[int(i) for i in input().split()]
 print(abs(sowmi-sathiya))
