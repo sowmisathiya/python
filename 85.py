@@ -1,5 +1,5 @@
 inbox1=list(input())
-if ln(inbox1%2==0:
+if ln(inbox1)%2==0:
     inbox1[int(ln(inbox1)/2)] ='*'
     inbox1[int(ln(inbox1)/2)-1]='*'
 else:
