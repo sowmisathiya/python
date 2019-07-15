@@ -1,7 +1,7 @@
 rat,dog=input().strip().split(" ")
 dog=int(dog)
 sow=0
-while sow<len(r)-1 and dog:
+while sow<len(rat)-1 and dog:
 	if(rat[sow]>rat[sow+1]):
 		dog-=1
 		rat=rat[:sow]+r[sow+1:]
