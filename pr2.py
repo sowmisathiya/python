@@ -9,5 +9,5 @@ while sow<len(r)-1 and dog:
 			sow-=1
 	else:
 		sow+=1
-qea=rat[:len(r)-d]
+qea=rat[:len(rat)-dog]
 print(qea)
