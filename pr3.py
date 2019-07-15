@@ -1,7 +1,7 @@
 ad,bc=input().split()
 xl1=len(ad)
 yl2=len(bc)
-map=abss(xl1-yl2)
+map=abs(xl1-yl2)
 if xl1<=yl2:
   sow=ad
   lev=bc
