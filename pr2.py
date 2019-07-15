@@ -1,5 +1,5 @@
 rat,dog=input().strip().split(" ")
-dog=int(d)
+dog=int(dog)
 sow=0
 while sow<len(r)-1 and dag:
 	if(rat[sow]>rat[sow+1]):
