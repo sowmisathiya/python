@@ -6,6 +6,6 @@ for i in range(0,a25):
 
     for j in range(0,i):
         if l84[j]<l84[i]:
-            m92=m92+l[j]
+            m92=m92+l84[j]
 
 print(m92)
