@@ -2,8 +2,8 @@ an,bn = map(int,input().split())
 cn = list(map(int,input().split()))
 dn = []
 for i in range(0,b):
-  in = list(map(int,input().split()))
-  dn.append(in)
+  i = list(map(int,input().split()))
+  dn.append(i)
 for i in dn:
   en = cn[i[0] - 1:i[1]]
   fn = en[0]
