@@ -1,7 +1,7 @@
 a,b=input().split()
 l21=len(a)
 l22=len(b)
-mi=abs(l21-l22)
+min=abs(l21-l22)
 if(l21<=l22):
   s=a
   l23=b
