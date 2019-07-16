@@ -1,18 +1,18 @@
-y1 = int(input())
-lst= []
-for _ in range(y1):
-    lst.append(input())
-x2, c3, flag = '', 0, False
-for i in lst[0]:
-    for j in lst[1:]:
-        if len(j) == c3:
-            flag = True
-            break
-        if j[c3] != i:
-            break
-    else:
-        x+= i
-    if flag:
-        break
-    c3 += 1
-print(x2)
+x1=int(input())
+y2=[]
+for i in range(x1):
+  y2.append(input())
+  a1,b2,flag ='',0,False
+for m in y2[0]:
+  for n in y2[1:]:
+    if len(n)==b2:
+      flag=True
+      break
+    if n[b2]!=m:
+      break
+  else:
+    a1+=m
+  if flag:
+      break
+  b2+=1
+print(a1)
