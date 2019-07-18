@@ -1,5 +1,5 @@
-def count_1(n) :
-    sss1 = bin(n)[2:]
+def count_1(no) :
+    sss1 = bin(no)[2:]
     kss = sss1.count('1')
     return kss
 no = int(input())
