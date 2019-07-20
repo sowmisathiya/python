@@ -1,5 +1,5 @@
 np=input()
-a=list(map(int,npi.split()))
+a=list(map(int,np.split()))
 k=a[1]
 ha=input()
 flag=0
