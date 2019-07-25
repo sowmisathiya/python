@@ -1,5 +1,5 @@
 arr=int(input())
-brr=[int(st) for st in input().split()]
+brr=[int(s) for s in input().split()]
 brr.sort()
 s=0
 xv=0
