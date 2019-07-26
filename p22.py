@@ -2,7 +2,7 @@ sow,sa=map(int,input().split())
 lt=list(map(int,input().split()))
 lw=[]
 for i in range(0,sa):
-     sh,she1=ap(int,input().split())
+     sh,she1=map(int,input().split())
      lw.append([sh,she1)
 for i n range(sa):
      as=lw[i][0]
