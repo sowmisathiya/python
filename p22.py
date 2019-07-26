@@ -7,5 +7,5 @@ for i in range(0,sa):
 for i n range(sa):
      ls=lw[i][0]
      up=lw[i[1]
-     yw=sum(lost[ls-1:up])
+     yw=sum(lt[ls-1:up])
      print(yw)
