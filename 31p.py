@@ -1,8 +1,8 @@
 n1=int(input())
 n2=list(map(int,input().split())
 an=int(n1/2)
-r1=n2[:ans]
-r2=n2[ans::]
+r1=n2[:an]
+r2=n2[an::]
 if((sum(r1)//len(r1))==(sum(r2)//len(r2))):
   print("yes")
 else:
