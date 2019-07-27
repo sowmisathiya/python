@@ -1,7 +1,7 @@
 cou1=int(input())
 arr=[]
 ss1=[]
-for i in (cou1):
+for i in range(cou1):
   arr.append(list(map(int,input().split())))
 for l in arr:
   for n in l:
