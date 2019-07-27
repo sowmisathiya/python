@@ -1,7 +1,7 @@
-sow=int(input())
-sow1=list(map(int,input().split()))
-sa=int(len(sow1)/2)
-if sum(sow1[:sa])//len(sow1[:sa]) == sum(sow1[sa:])//len(sow1[sa:]):
-  print('yes')
+p3=int(input())
+q3=list(map(int, input().split()))
+r2= int(len(q3)/2)
+if sum(q3[:r2])//len(q3[:r2]) == sum(q3[r2:])//len(q3[r2:]):
+    print('yes')
 else:
-  print('no')
+    print('no')
