@@ -6,6 +6,6 @@ for i in range(cou1):
 for l in arr:
   for n in l:
     ss1.append(n)
- ss1.sort()
- for i in ss1:
+ss1.sort()
+for i in ss1:
   print(i,end=' ')
