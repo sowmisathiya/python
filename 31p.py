@@ -1,9 +1,9 @@
-n1=int(input())
-n2=list(map(int,input().split())
-an=int(n1/2)
-rr1=n2[:an]
-rr2=n2[an::]
-if((sum(rr1)//len(rr1))==(sum(rr2)//len(rr2))):
-  print("yes")
+c1=int(input())
+c2=list(map(int,input().split()))
+ans=int(c1/2)
+ba1=c2[:ans]
+ba2=c2[ans::]
+if ((sum(ba1)//len(ba1))==(sum(ba2)//len(ba2))):
+    print("yes")
 else:
-  print("no")
+    print("no")
