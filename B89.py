@@ -1,3 +1,3 @@
 s=input()
 l=sorted(s)
-print(''.join(map(s,l)))
+print(''.join(map(str,l)))
